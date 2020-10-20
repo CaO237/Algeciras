@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+body {
+    font-family: 'Amatic SC', cursive;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+<img src="img/1.jpg" alt="imagen" class="galeria"><img src="img/2.jpg" alt="imagen" class="galeria"><img src="img/3.jpg" alt="imagen" class="galeria"><img src="img/5.jpg" alt="imagen" class="galeria"><img src="img/6.jpg" alt="imagen" class="galeria"><img src="img/7.jpg" alt="imagen" class="galeria"><img src="img/1200px-Plaza_alta_noche.jpg" alt="imagen" class="galeria"><img src="img/14103674385_c651e83d50_b.jpg" alt="imagen" class="galeria"><img src="img/1561976871920.jpg" alt="imagen" class="galeria"><img src="img/2018062713552569838.jpg" alt="imagen" class="galeria">
